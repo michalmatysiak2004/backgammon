@@ -1,0 +1,3 @@
+C:/Users/polsk/OneDrive/Pulpit/STUDIA/semestr 1/PP/backgammon/cmake-build-debug/CMakeFiles/backgammon.dir
+C:/Users/polsk/OneDrive/Pulpit/STUDIA/semestr 1/PP/backgammon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/polsk/OneDrive/Pulpit/STUDIA/semestr 1/PP/backgammon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
